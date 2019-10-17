@@ -1,0 +1,11 @@
+{
+  "name": "react-native-custom-webview",
+  "description": "A react-native component",
+  "version": "0.0.1",
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Randy Yang",
+  "license": "MIT",
+  "homepage": "https://github.com"
+}
