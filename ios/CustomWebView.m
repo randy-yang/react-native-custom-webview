@@ -10,7 +10,7 @@
 #import <React/RCTView.h>
 #import <React/UIView+React.h>
 
-//NSString *const RCTJSNavigationScheme = @"react-js-navigation";
+NSString *const RCTJSNavigationScheme = @"react-js-navigation";
 
 static NSString *const kPostMessageHost = @"postMessage";
 
